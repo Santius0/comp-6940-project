@@ -7,7 +7,7 @@ def get_chart(chart_title='hot-100', week=date.today(), starting_id=0):
     chart = billboard.ChartData(chart_title, date=week, max_retries=10, fetch=True)
     return pd.DataFrame(data=[[
         # starting_id + idx,
-        #                        song.title,
+        # song.title,
         song.artist,
         song.image,
         song.peakPos,
@@ -18,7 +18,7 @@ def get_chart(chart_title='hot-100', week=date.today(), starting_id=0):
         chart.date] for idx, song in enumerate(chart)],
         columns=[
             # 'id',
-            #      'title',
+            # 'title',
             'artist',
             'image',
             'peakPos',
