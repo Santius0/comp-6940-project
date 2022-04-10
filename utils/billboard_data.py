@@ -1,9 +1,10 @@
 import billboard
-from datetime import date, timedelta
+from datetime import date
 import pandas as pd
 
 
-def get_chart(chart_title='hot-100', week=date.today(), starting_id=0):
+def get_chart(chart_title: str = 'hot-100', week: date = date.today(), starting_id: int = 0) \
+        -> (pd.DataFrame, int):
     chart = billboard.ChartData(chart_title, date=week, max_retries=10, fetch=True)
     return pd.DataFrame(data=[[
         # starting_id + idx,

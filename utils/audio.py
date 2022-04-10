@@ -4,19 +4,22 @@ import pandas as pd
 import numpy as np
 
 
-def extract_audio_features(filepath:str, song_name: str = None, chunk_length: float or int = None, num_chunks: int = 1, n_fft:int=2048, hop_length:int=512):
-    assert ((num_chunks > 1) and (chunk_length is not None)) == False, "either chunk_length or num_chunks must be used"
+def extract_audio_features(filepath: str, song_name: str = None, chunk_length: float or int = None, num_chunks: int = 1,
+                           n_fft: int = 2048, hop_length: int = 512) -> (pd.DataFrame, list):
+    assert ((num_chunks > 1) and (chunk_length is not None)) is False, "either chunk_length or num_chunks must be used"
     assert num_chunks > 0, "num chunks cannot be negative"
 
     filepath = os.path.abspath(filepath)
     filename = filepath.split(os.sep)[-1]
     y, sample_rate = librosa.load(filepath)
-    duration_s = np.shape(y)[0]/sample_rate
+    duration_s = np.shape(y)[0] / sample_rate
 
     if chunk_length:
-        num_chunks = int(np.ceil(duration_s/chunk_length))
-    if num_chunks > 1: chunk_length = duration_s/num_chunks
-    else: chunk_length = duration_s
+        num_chunks = int(np.ceil(duration_s / chunk_length))
+    if num_chunks > 1:
+        chunk_length = duration_s / num_chunks
+    else:
+        chunk_length = duration_s
 
     final_df = None
     cols = []
@@ -54,11 +57,17 @@ def extract_audio_features(filepath:str, song_name: str = None, chunk_length: fl
         mfccs = librosa.feature.mfcc(audio, sr=sr)
         mfccs_mean = [np.mean(mfcc) for mfcc in mfccs]
         mfccs_var = [np.var(mfcc) for mfcc in mfccs]
-        cols = ['billboard_name', 'filename', 'length', 'chroma_stft_mean', 'chroma_stft_var', 'rms_mean', 'rms_var', 'spectral_centroid_mean', 'spectral_centroid_var', 'spectral_bandwidth_mean', 'spectral_bandwidth_var', 'rolloff_mean', 'rolloff_var', 'zero_crossing_rate_mean', 'zero_crossing_rate_var', 'harmony_mean', 'harmony_var', 'perceptr_mean', 'perceptr_var', 'tempo']
-        data = [billboard_name, name, chunk_length, chroma_stft_mean, chroma_stft_var, rms_mean, rms_var, spectral_centroid_mean, spectral_centroid_var, spectral_bandwidth_mean, spectral_bandwidth_var, rolloff_mean, rolloff_var, zero_crossing_rate_mean, zero_crossing_rate_var, harmony_mean, harmony_var, perceptr_mean, perceptr_var, tempo]
+        cols = ['billboard_name', 'filename', 'length', 'chroma_stft_mean', 'chroma_stft_var', 'rms_mean', 'rms_var',
+                'spectral_centroid_mean', 'spectral_centroid_var', 'spectral_bandwidth_mean', 'spectral_bandwidth_var',
+                'rolloff_mean', 'rolloff_var', 'zero_crossing_rate_mean', 'zero_crossing_rate_var', 'harmony_mean',
+                'harmony_var', 'perceptr_mean', 'perceptr_var', 'tempo']
+        data = [billboard_name, name, chunk_length, chroma_stft_mean, chroma_stft_var, rms_mean, rms_var,
+                spectral_centroid_mean, spectral_centroid_var, spectral_bandwidth_mean, spectral_bandwidth_var,
+                rolloff_mean, rolloff_var, zero_crossing_rate_mean, zero_crossing_rate_var, harmony_mean, harmony_var,
+                perceptr_mean, perceptr_var, tempo]
         for m in range(len(mfccs_mean)):
-            cols.append(f"mfcc{m+1}_mean")
-            cols.append(f"mfcc{m+1}_var")
+            cols.append(f"mfcc{m + 1}_mean")
+            cols.append(f"mfcc{m + 1}_var")
             data.append(mfccs_mean[m])
             data.append(mfccs_var[m])
         df = pd.DataFrame(columns=cols, data=[data])
