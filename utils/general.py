@@ -3,6 +3,8 @@ import glob
 import pandas as pd
 from datetime import date, timedelta
 import string
+from functools import wraps
+from time import time
 
 
 def all_day_in_year(day=0, year=date.today().year):
@@ -54,3 +56,14 @@ def open_or_create_csv(path, cols):
     except FileNotFoundError:
         pd.DataFrame(columns=cols).to_csv(path, index=False)
         return pd.read_csv(path)
+
+
+def execution_time(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        st = time()
+        ret = func(*args, **kwargs)
+        et = time()
+        print('\n func:%r args:[%r, %r] took: %2.2f sec' % (func.__name__, args, kwargs, et-st))
+        return ret
+    return wrapper

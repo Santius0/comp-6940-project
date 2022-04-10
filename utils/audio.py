@@ -4,6 +4,20 @@ import pandas as pd
 import numpy as np
 
 
+# Features to extract (modelled off GTZAN dataset):
+# 0. length of analysed segments
+# 1. Chroma stft (short term fourier transform)
+# 2. rms (root mean square)
+# 3. spectral centroid
+# 4. spectral bandwidth
+# 5. rolloff
+# 6. zero crossing rate
+# 7. harmony
+# 8. perceptr
+# 9. tempo
+# 10. mfccs
+
+
 def extract_audio_features(filepath: str, song_name: str = None, chunk_length: float or int = None, num_chunks: int = 1,
                            n_fft: int = 2048, hop_length: int = 512) -> (pd.DataFrame, list):
     assert ((num_chunks > 1) and (chunk_length is not None)) is False, "either chunk_length or num_chunks must be used"
