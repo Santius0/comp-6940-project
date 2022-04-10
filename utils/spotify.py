@@ -11,10 +11,6 @@ load_dotenv('../.env')
 # print(os.getenv('SPOTIPY_CLIENT_ID'))
 # print(os.environ['SPOTIPY_CLIENT_ID'])
 
-# SPOTIPY_CLIENT_ID = '064f7f00e33f41f2ba917f2f07083867'
-# SPOTIPY_CLIENT_SECRET = 'f36494cbb9914a2ab07ddb449aadbb98'
-# SPOTIPY_REDIRECT_URI = 'http://localhost:9000'
-#
 # os.environ['SPOTIPY_CLIENT_ID'] = SPOTIPY_CLIENT_ID
 # os.environ['SPOTIPY_CLIENT_SECRET'] = SPOTIPY_CLIENT_SECRET
 # os.environ['SPOTIPY_REDIRECT_URI'] = SPOTIPY_REDIRECT_URI
