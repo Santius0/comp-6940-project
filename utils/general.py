@@ -5,7 +5,7 @@ import numpy as np
 from datetime import date, timedelta
 import string
 from functools import wraps
-from time import time
+from timeit import default_timer
 import math
 
 
@@ -55,15 +55,17 @@ def open_or_create_csv(path, cols):
         return pd.read_csv(path)
 
 
-def execution_time(func):
-    @wraps(func)
-    def wrapper(*args, **kwargs):
-        st = time()
-        ret = func(*args, **kwargs)
-        et = time()
-        print('\n func:%r args:[%r, %r] took: %2.2f sec' % (func.__name__, args, kwargs, et - st))
-        return ret
-    return wrapper
+def execution_time(round_to=2):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            st = default_timer()
+            ret = func(*args, **kwargs)
+            et = default_timer()
+            print(f"\n func:{func.__name__} args:[{args}, {kwargs}] took: {round(et-st, round_to)} sec")
+            return ret
+        return wrapper
+    return decorator
 
 
 def sigmoid(x: int or float) -> int or float:
@@ -76,10 +78,10 @@ def tanh(x: int or float) -> int or float:
 
 def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, peak: int or None = None) -> int or float:
     s = 0
-    highest_rank = -math.inf
+    lowest_rank = math.inf
     for i in range(len(rank_counts)):
         s += rank_counts[i] * (1 / ranks[i])
-        if ranks[i] > highest_rank:
-            highest_rank = ranks[i]
-    peak = highest_rank if peak is None else peak
+        if ranks[i] < lowest_rank:
+            lowest_rank = ranks[i]
+    peak = lowest_rank if peak is None else peak
     return tanh((1 / peak) * s)
