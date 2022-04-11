@@ -69,7 +69,6 @@ def execution_time(func):
         et = time()
         print('\n func:%r args:[%r, %r] took: %2.2f sec' % (func.__name__, args, kwargs, et - st))
         return ret
-
     return wrapper
 
 
