@@ -85,7 +85,7 @@ def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, peak: i
     s = 0
     highest_rank = -math.inf
     for i in range(len(rank_counts)):
-        s += rank_counts[i] * 1 / (ranks[i])
+        s += rank_counts[i] * (1 / ranks[i])
         if ranks[i] > highest_rank:
             highest_rank = ranks[i]
     peak = highest_rank if peak is None else peak
