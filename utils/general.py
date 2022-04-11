@@ -13,13 +13,7 @@ def all_day_in_year(day=0, year=date.today().year):
     """Returns every occurrence of a specified weekday in a specified year"""
 
     # yyyy mm dd
-    # 0 = mon
-    # 1 = tue
-    # 2 = wed
-    # 3 = thu
-    # 4 = fri
-    # 5 = sat
-    # 6 = sun
+    # 0 = mon 1 = tue 2 = wed 3 = thu 4 = fri 5 = sat 6 = sun
     dte = date(year, 1, 1)
     dte += timedelta(days=(day - dte.weekday()) % 7)
     while dte.year == year:
@@ -72,15 +66,15 @@ def execution_time(func):
     return wrapper
 
 
-def sigmoid(x):
+def sigmoid(x: int or float) -> int or float:
     return 1 / (1 + math.exp(-x))
 
 
-def tanh(x):
+def tanh(x: int or float) -> int or float:
     return (2 * sigmoid(2 * x)) - 1
 
 
-def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, peak: int or None = None) -> float:
+def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, peak: int or None = None) -> int or float:
     s = 0
     highest_rank = -math.inf
     for i in range(len(rank_counts)):
