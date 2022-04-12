@@ -76,13 +76,8 @@ def tanh(x: int or float) -> int or float:
     return (2 * sigmoid(2 * x)) - 1
 
 
-def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, peak: int or None = None, scaled=True) \
-        -> int or float:
+def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, scaled: bool = True) -> int or float:
     s = 0
-    lowest_rank = math.inf
     for i in range(len(rank_counts)):
         s += rank_counts[i] * (1 / ranks[i])
-        if ranks[i] < lowest_rank:
-            lowest_rank = ranks[i]
-    peak = lowest_rank if peak is None else peak
-    return tanh((1 / peak) * s) if scaled else (1 / peak) * s
+    return tanh(s) if scaled else s
