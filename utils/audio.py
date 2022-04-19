@@ -71,7 +71,7 @@ def extract_audio_features(filepath: str, song_name: str = None, chunk_length: f
         mfccs = librosa.feature.mfcc(audio, sr=sr)
         mfccs_mean = [np.mean(mfcc) for mfcc in mfccs]
         mfccs_var = [np.var(mfcc) for mfcc in mfccs]
-        cols = ['billboard_name', 'filename', 'length', 'chroma_stft_mean', 'chroma_stft_var', 'rms_mean', 'rms_var',
+        cols = ['billboard_name', 'name', 'length', 'chroma_stft_mean', 'chroma_stft_var', 'rms_mean', 'rms_var',
                 'spectral_centroid_mean', 'spectral_centroid_var', 'spectral_bandwidth_mean', 'spectral_bandwidth_var',
                 'rolloff_mean', 'rolloff_var', 'zero_crossing_rate_mean', 'zero_crossing_rate_var', 'harmony_mean',
                 'harmony_var', 'perceptr_mean', 'perceptr_var', 'tempo']
