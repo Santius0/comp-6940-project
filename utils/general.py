@@ -62,9 +62,11 @@ def execution_time(round_to=2):
             st = default_timer()
             ret = func(*args, **kwargs)
             et = default_timer()
-            print(f"\n func:{func.__name__} args:[{args}, {kwargs}] took: {round(et-st, round_to)} sec")
+            print(f"\n func:{func.__name__} args:[{args}, {kwargs}] took: {round(et - st, round_to)} sec")
             return ret
+
         return wrapper
+
     return decorator
 
 
@@ -77,10 +79,34 @@ def tanh(x: int or float) -> int or float:
 
 
 def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, scaled: bool = True) -> int or float:
+    assert(len(rank_counts) == len(ranks))
     s = 0
     for i in range(len(rank_counts)):
-        s += rank_counts[i] * (1 / ranks[i])
+        s += rank_counts[i] * ranks[i]
     return tanh(s) if scaled else s
+
+
+def rank_score_basic(rank: int) -> float:
+    return 1/rank
+
+
+def rank_score_classic(peak: int, rank: int) -> float:
+    base = 101
+    peak = base - peak
+    rank = base - rank
+    return peak - rank + 1
+
+
+def rank_score_01(peak: int, rank: int) -> float:
+    try:
+        return abs(1 / (1 / peak + 1 / rank - 1))
+    except ZeroDivisionError:  # when peak rank and current rank are 2 this happens.
+                               # take the middle of rank+1 and rank-1
+        return (abs(1 / (1 / peak + 1 / (rank + 1) - 1)) + abs(1 / (1 / peak + 1 / (rank - 1) - 1))) / 2
+
+
+def rank_score_02(peak: int, rank: int) -> float:
+    return 1 / (peak + rank - 1)
 
 
 def col_by_name(df: pd.DataFrame, col_name: str) -> int:
