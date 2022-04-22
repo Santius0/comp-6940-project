@@ -81,3 +81,7 @@ def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, scaled:
     for i in range(len(rank_counts)):
         s += rank_counts[i] * (1 / ranks[i])
     return tanh(s) if scaled else s
+
+
+def col_by_name(df: pd.DataFrame, col_name: str) -> int:
+    return df.columns.get_loc(col_name)
