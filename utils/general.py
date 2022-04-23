@@ -83,6 +83,8 @@ def squiggle(rank_counts: np.ndarray or list, ranks: np.ndarray or list, scaled:
     s = 0
     for i in range(len(rank_counts)):
         s += rank_counts[i] * ranks[i]
+    # print(s)
+    # print(tanh(s))
     return tanh(s) if scaled else s
 
 
