@@ -7,6 +7,7 @@ import string
 from functools import wraps
 from timeit import default_timer
 import math
+import json
 
 
 def all_day_in_year(day=0, year=date.today().year):
@@ -113,3 +114,9 @@ def rank_score_02(peak: int, rank: int) -> float:
 
 def col_by_name(df: pd.DataFrame, col_name: str) -> int:
     return df.columns.get_loc(col_name)
+
+
+def load_mfcc_data(json_path=os.path.abspath("../data/audio/mffcs.json")):
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+    return np.array(data['mfccs']), np.array(data['billboard_names'])
