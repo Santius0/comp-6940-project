@@ -1,0 +1,101 @@
+title,artist,image,peakPos,lastPos,weeks,rank,isNew,date
+The Box,Roddy Ricch,,1,1,6,1,False,2020-01-25
+Life Is Good,Future Featuring Drake,,2,0,1,2,True,2020-01-25
+Circles,Post Malone,,1,3,20,3,False,2020-01-25
+Memories,Maroon 5,,2,4,17,4,False,2020-01-25
+Lose You To Love Me,Selena Gomez,,1,10,13,5,False,2020-01-25
+Someone You Loved,Lewis Capaldi,,1,6,36,6,False,2020-01-25
+"10,000 Hours",Dan + Shay & Justin Bieber,,4,5,15,7,False,2020-01-25
+Dance Monkey,Tones And I,,7,7,15,8,False,2020-01-25
+Roxanne,Arizona Zervas,,4,9,11,9,False,2020-01-25
+Yummy,Justin Bieber,,2,2,2,10,False,2020-01-25
+Good As Hell,Lizzo,,3,8,21,11,False,2020-01-25
+BOP,DaBaby,,11,12,16,12,False,2020-01-25
+Ballin',Mustard & Roddy Ricch,,11,11,26,13,False,2020-01-25
+Don't Start Now,Dua Lipa,,14,14,11,14,False,2020-01-25
+HIGHEST IN THE ROOM,Travis Scott,,1,13,15,15,False,2020-01-25
+Sum 2 Prove,Lil Baby,,16,0,1,16,True,2020-01-25
+Good News,Mac Miller,,17,0,1,17,True,2020-01-25
+Heartless,The Weeknd,,1,17,8,18,False,2020-01-25
+No Guidance,Chris Brown Featuring Drake,,5,15,32,19,False,2020-01-25
+Trampoline,SHAED,,13,16,33,20,False,2020-01-25
+Woah,Lil Baby,,16,22,10,21,False,2020-01-25
+Everything I Wanted,Billie Eilish,,8,19,10,22,False,2020-01-25
+The Bones,Maren Morris,,23,26,17,23,False,2020-01-25
+Senorita,Shawn Mendes & Camila Cabello,,1,18,30,24,False,2020-01-25
+Hot Girl Bummer,blackbear,,25,29,18,25,False,2020-01-25
+Adore You,Harry Styles,,24,24,6,26,False,2020-01-25
+High Fashion,Roddy Ricch Featuring Mustard,,27,35,3,27,False,2020-01-25
+Panini,Lil Nas X,,5,23,30,28,False,2020-01-25
+You Should Be Sad,Halsey,,29,0,1,29,True,2020-01-25
+Rare,Selena Gomez,,30,0,1,30,True,2020-01-25
+Hot,Young Thug Featuring Gunna,,11,21,22,31,False,2020-01-25
+Blinding Lights,The Weeknd,,11,39,7,32,False,2020-01-25
+Truth Hurts,Lizzo,,1,20,37,33,False,2020-01-25
+Only Human,Jonas Brothers,,18,25,30,34,False,2020-01-25
+Bandit,Juice WRLD & YoungBoy Never Broke Again,,10,28,15,35,False,2020-01-25
+One Man Band,Old Dominion,,20,27,21,36,False,2020-01-25
+Even Though I'm Leaving,Luke Combs,,11,31,20,37,False,2020-01-25
+I Don't Care,Ed Sheeran & Justin Bieber,,2,32,33,38,False,2020-01-25
+Suicidal,YNW Melly & Juice WRLD,,39,41,8,39,False,2020-01-25
+Bad Guy,Billie Eilish,,1,33,42,40,False,2020-01-25
+Falling,Trevor Daniel,,31,38,9,41,False,2020-01-25
+Sucker,Jonas Brothers,,1,34,41,42,False,2020-01-25
+Futsal Shuffle 2020,Lil Uzi Vert,,5,30,5,43,False,2020-01-25
+My Oh My,Camila Cabello Featuring DaBaby,,44,44,6,44,False,2020-01-25
+Juicy,Doja Cat & Tyga,,45,48,12,45,False,2020-01-25
+On Chill,Wale Featuring Jeremih,,22,37,23,46,False,2020-01-25
+Heartache Medication,Jon Pardi,,47,51,16,47,False,2020-01-25
+Talk,Khalid,,3,42,46,48,False,2020-01-25
+What If I Never Get Over You,Lady Antebellum,,40,40,21,49,False,2020-01-25
+Lover,Taylor Swift,,10,36,22,50,False,2020-01-25
+Kinfolks,Sam Hunt,,51,54,14,51,False,2020-01-25
+Ridin' Roads,Dustin Lynch,,47,47,11,52,False,2020-01-25
+U Played,MoneyBagg Yo Featuring Lil Baby,,53,60,2,53,False,2020-01-25
+Playing Games,Summer Walker,,16,49,20,54,False,2020-01-25
+TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,,28,62,7,55,False,2020-01-25
+South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,,53,61,6,56,False,2020-01-25
+VIBEZ,DaBaby,,21,53,16,57,False,2020-01-25
+Graveyard,Halsey,,34,43,18,58,False,2020-01-25
+Heat,Chris Brown Featuring Gunna,,36,55,20,59,False,2020-01-25
+Homesick,Kane Brown,,60,63,9,60,False,2020-01-25
+Heart On Ice,Rod Wave,,54,59,10,61,False,2020-01-25
+Start Wit Me,Roddy Ricch & Gunna,,56,56,9,62,False,2020-01-25
+No Idea,Don Toliver,,43,58,7,63,False,2020-01-25
+I Hope,Gabby Barrett Featuring Charlie Puth,,64,65,3,64,False,2020-01-25
+Out West,JACKBOYS Featuring Young Thug,,38,52,3,65,False,2020-01-25
+SUGAR,BrockHampton,,66,70,2,66,False,2020-01-25
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,,66,68,8,67,False,2020-01-25
+BEST ON EARTH,Russ & BIA,,68,69,6,68,False,2020-01-25
+Tusa,Karol G & Nicki Minaj,,69,87,7,69,False,2020-01-25
+Take What You Want,Post Malone Featuring Ozzy Osbourne & Travis Scott,,8,66,19,70,False,2020-01-25
+Slide,H.E.R. Featuring YG,,67,67,4,71,False,2020-01-25
+We Back,Jason Aldean,,72,74,7,72,False,2020-01-25
+What She Wants Tonight,Luke Bryan,,73,75,4,73,False,2020-01-25
+Make Me Want To,Jimmie Allen,,74,78,3,74,False,2020-01-25
+I Wish Grandpas Never Died,Riley Green,,75,83,3,75,False,2020-01-25
+More Hearts Than Mine,Ingrid Andress,,76,82,3,76,False,2020-01-25
+Say So,Doja Cat Featuring Nicki Minaj,,77,95,2,77,False,2020-01-25
+Camelot,NLE Choppa,,37,72,18,78,False,2020-01-25
+Make No Sense,YoungBoy Never Broke Again,,57,96,10,79,False,2020-01-25
+Remember You Young,Thomas Rhett,,53,64,18,80,False,2020-01-25
+Easy,DaniLeigh Featuring Chris Brown,,79,80,11,81,False,2020-01-25
+Tip Toe,Roddy Ricch Featuring A Boogie Wit da Hoodie,,73,79,7,82,False,2020-01-25
+Eleven,Khalid,,83,0,1,83,True,2020-01-25
+All Dat,Moneybagg Yo X Megan Thee Stallion,,70,99,4,84,False,2020-01-25
+Leave Em Alone,"Layton Greene, Lil Baby, City Girls & PnB Rock",,60,73,15,85,False,2020-01-25
+Conversations In The Dark,John Legend,,86,0,1,86,True,2020-01-25
+I Hope You're Happy Now,Carly Pearce & Lee Brice,,87,93,2,87,False,2020-01-25
+Jerry Sprunger,Tory Lanez & T-Pain,,44,88,7,88,False,2020-01-25
+Protect da Brand,Moneybagg Yo Featuring DaBaby,,89,0,1,89,True,2020-01-25
+Into The Unknown,Idina Menzel & AURORA,,46,57,8,90,False,2020-01-25
+Vete,Bad Bunny,,33,92,8,91,False,2020-01-25
+Look At Her Now.,Selena Gomez,,27,0,4,92,False,2020-01-25
+homecoming queen?,Kelsea Ballerini,,82,84,6,93,False,2020-01-25
+Watermelon Sugar,Harry Styles,,54,81,8,94,False,2020-01-25
+Nice To Meet Ya,Niall Horan,,63,77,14,95,False,2020-01-25
+July,Noah Cyrus & Leon Bridges,,91,91,3,96,False,2020-01-25
+Peta,Roddy Ricch Featuring Meek Mill,,72,86,4,97,False,2020-01-25
+223's,YNW Melly & 9lokknine,,34,85,19,98,False,2020-01-25
+Slow Dance In A Parking Lot,Jordan Davis,,97,97,3,99,False,2020-01-25
+All I Want,Olivia Rodrigo,,90,90,2,100,False,2020-01-25

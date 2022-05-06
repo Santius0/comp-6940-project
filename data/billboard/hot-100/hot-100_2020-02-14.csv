@@ -1,0 +1,101 @@
+title,artist,image,peakPos,lastPos,weeks,rank,isNew,date
+The Box,Roddy Ricch,,1,1,9,1,False,2020-02-15
+Life Is Good,Future Featuring Drake,,2,2,4,2,False,2020-02-15
+Circles,Post Malone,,1,3,23,3,False,2020-02-15
+Memories,Maroon 5,,2,4,20,4,False,2020-02-15
+Dance Monkey,Tones And I,,5,7,18,5,False,2020-02-15
+Someone You Loved,Lewis Capaldi,,1,5,39,6,False,2020-02-15
+Roxanne,Arizona Zervas,,4,8,14,7,False,2020-02-15
+"10,000 Hours",Dan + Shay & Justin Bieber,,4,6,18,8,False,2020-02-15
+Don't Start Now,Dua Lipa,,9,9,14,9,False,2020-02-15
+Everything I Wanted,Billie Eilish,,8,10,13,10,False,2020-02-15
+Lose You To Love Me,Selena Gomez,,1,11,16,11,False,2020-02-15
+Ballin',Mustard & Roddy Ricch,,11,16,29,12,False,2020-02-15
+BOP,DaBaby,,11,14,19,13,False,2020-02-15
+Yummy,Justin Bieber,,2,15,5,14,False,2020-02-15
+Blinding Lights,The Weeknd,,11,18,10,15,False,2020-02-15
+Good As Hell,Lizzo,,3,13,24,16,False,2020-02-15
+Heartless,The Weeknd,,1,19,11,17,False,2020-02-15
+The Bones,Maren Morris,,18,21,20,18,False,2020-02-15
+Hot Girl Bummer,blackbear,,19,23,21,19,False,2020-02-15
+Godzilla,Eminem Featuring Juice WRLD,,3,12,3,20,False,2020-02-15
+High Fashion,Roddy Ricch Featuring Mustard,,20,22,6,21,False,2020-02-15
+No Guidance,Chris Brown Featuring Drake,,5,24,35,22,False,2020-02-15
+Adore You,Harry Styles,,23,29,9,23,False,2020-02-15
+Woah,Lil Baby,,16,25,13,24,False,2020-02-15
+Bad Guy,Billie Eilish,,1,17,45,25,False,2020-02-15
+HIGHEST IN THE ROOM,Travis Scott,,1,20,18,26,False,2020-02-15
+Falling,Trevor Daniel,,27,33,12,27,False,2020-02-15
+Senorita,Shawn Mendes & Camila Cabello,,1,26,33,28,False,2020-02-15
+What A Man Gotta Do,Jonas Brothers,,16,30,3,29,False,2020-02-15
+You Should Be Sad,Halsey,,26,28,4,30,False,2020-02-15
+My Oh My,Camila Cabello Featuring DaBaby,,31,35,9,31,False,2020-02-15
+Trampoline,SHAED,,13,27,36,32,False,2020-02-15
+I Do It,Lil Wayne Featuring Big Sean & Lil Baby,,33,0,1,33,True,2020-02-15
+Kinfolks,Sam Hunt,,34,46,17,34,False,2020-02-15
+Truth Hurts,Lizzo,,1,32,40,35,False,2020-02-15
+One Man Band,Old Dominion,,20,40,24,36,False,2020-02-15
+Only Human,Jonas Brothers,,18,37,33,37,False,2020-02-15
+Sucker,Jonas Brothers,,1,39,44,38,False,2020-02-15
+Suicidal,YNW Melly & Juice WRLD,,34,36,11,39,False,2020-02-15
+I Don't Care,Ed Sheeran & Justin Bieber,,2,44,36,40,False,2020-02-15
+Juicy,Doja Cat & Tyga,,41,48,15,41,False,2020-02-15
+Tusa,Karol G & Nicki Minaj,,42,51,10,42,False,2020-02-15
+Even Though I'm Leaving,Luke Combs,,11,41,23,43,False,2020-02-15
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,,44,53,11,44,False,2020-02-15
+Bandit,Juice WRLD & YoungBoy Never Broke Again,,10,47,18,45,False,2020-02-15
+Sum 2 Prove,Lil Baby,,16,38,4,46,False,2020-02-15
+Hot,Young Thug Featuring Gunna,,11,45,25,47,False,2020-02-15
+Heartache Medication,Jon Pardi,,42,42,19,48,False,2020-02-15
+South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,,49,50,9,49,False,2020-02-15
+Only The Young,Taylor Swift,,50,0,1,50,True,2020-02-15
+Homesick,Kane Brown,,51,52,12,51,False,2020-02-15
+BEST ON EARTH,Russ & BIA,,52,62,9,52,False,2020-02-15
+I Hope,Gabby Barrett Featuring Charlie Puth,,53,56,6,53,False,2020-02-15
+Slide,H.E.R. Featuring YG,,54,57,7,54,False,2020-02-15
+Heart On Ice,Rod Wave,,54,59,13,55,False,2020-02-15
+Anyone,Demi Lovato,,34,34,2,56,False,2020-02-15
+Out West,JACKBOYS Featuring Young Thug,,38,63,6,57,False,2020-02-15
+TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,,28,58,10,58,False,2020-02-15
+B.I.T.C.H.,Megan Thee Stallion,,31,31,2,59,False,2020-02-15
+Physical,Dua Lipa,,60,0,1,60,True,2020-02-15
+Mahogany,Lil Wayne,,61,0,1,61,True,2020-02-15
+Nobody But You,Blake Shelton Duet With Gwen Stefani,,43,43,4,62,False,2020-02-15
+VIBEZ,DaBaby,,21,61,19,63,False,2020-02-15
+What She Wants Tonight,Luke Bryan,,64,65,7,64,False,2020-02-15
+Make Me Want To,Jimmie Allen,,65,72,6,65,False,2020-02-15
+P*$$y Fairy (OTW),Jhene Aiko,,55,55,3,66,False,2020-02-15
+Say So,Doja Cat Featuring Nicki Minaj,,67,73,5,67,False,2020-02-15
+I Wish Grandpas Never Died,Riley Green,,68,70,6,68,False,2020-02-15
+King Of My City,A Boogie Wit da Hoodie,,69,0,1,69,True,2020-02-15
+Futsal Shuffle 2020,Lil Uzi Vert,,5,60,8,70,False,2020-02-15
+More Hearts Than Mine,Ingrid Andress,,68,68,6,71,False,2020-02-15
+We Back,Jason Aldean,,72,74,10,72,False,2020-02-15
+Letter To Nipsey,Meek Mill Featuring Roddy Ricch,,73,80,2,73,False,2020-02-15
+SUGAR,BrockHampton,,66,69,5,74,False,2020-02-15
+Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,,75,0,5,75,False,2020-02-15
+I Hope You're Happy Now,Carly Pearce & Lee Brice,,75,75,5,76,False,2020-02-15
+Ridin' Roads,Dustin Lynch,,47,67,14,77,False,2020-02-15
+No Idea,Don Toliver,,43,66,10,78,False,2020-02-15
+Before You Go,Lewis Capaldi,,79,85,2,79,False,2020-02-15
+Make No Sense,YoungBoy Never Broke Again,,57,79,13,80,False,2020-02-15
+Homemade,Jake Owen,,81,88,2,81,False,2020-02-15
+Good News,Mac Miller,,17,54,4,82,False,2020-02-15
+Start Wit Me,Roddy Ricch & Gunna,,56,71,12,83,False,2020-02-15
+Vete,Bad Bunny,,33,87,10,84,False,2020-02-15
+Chasin' You,Morgan Wallen,,82,82,2,85,False,2020-02-15
+homecoming queen?,Kelsea Ballerini,,76,76,9,86,False,2020-02-15
+Mama Mia,Lil Wayne,,87,0,1,87,True,2020-02-15
+Funeral,Lil Wayne,,88,0,1,88,True,2020-02-15
+Nice To Meet Ya,Meghan Trainor Featuring Nicki Minaj,,89,0,1,89,True,2020-02-15
+Slow Dance In A Parking Lot,Jordan Davis,,84,84,5,90,False,2020-02-15
+Come Thru,Summer Walker & Usher,,42,90,8,91,False,2020-02-15
+Jerry Sprunger,Tory Lanez & T-Pain,,44,81,9,92,False,2020-02-15
+Get Me,Justin Bieber Featuring Kehlani,,93,0,1,93,True,2020-02-15
+Catch,Brett Young,,94,96,2,94,False,2020-02-15
+Dive Bar,Garth Brooks & Blake Shelton,,95,100,2,95,False,2020-02-15
+Easy,DaniLeigh Featuring Chris Brown,,79,89,14,96,False,2020-02-15
+Rare,Selena Gomez,,30,83,4,97,False,2020-02-15
+U Played,MoneyBagg Yo Featuring Lil Baby,,53,77,5,98,False,2020-02-15
+Camelot,NLE Choppa,,37,92,20,99,False,2020-02-15
+ORANGE SODA,Baby Keem,,98,0,2,100,False,2020-02-15

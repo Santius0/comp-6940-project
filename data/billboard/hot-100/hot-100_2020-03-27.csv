@@ -1,0 +1,101 @@
+title,artist,image,peakPos,lastPos,weeks,rank,isNew,date
+The Box,Roddy Ricch,,1,1,15,1,False,2020-03-28
+Blinding Lights,The Weeknd,,2,4,16,2,False,2020-03-28
+Don't Start Now,Dua Lipa,,2,2,20,3,False,2020-03-28
+Life Is Good,Future Featuring Drake,,2,3,10,4,False,2020-03-28
+Circles,Post Malone,,1,5,29,5,False,2020-03-28
+Roxanne,Arizona Zervas,,4,7,20,6,False,2020-03-28
+Adore You,Harry Styles,,7,16,15,7,False,2020-03-28
+Intentions,Justin Bieber Featuring Quavo,,8,10,6,8,False,2020-03-28
+Someone You Loved,Lewis Capaldi,,1,15,45,9,False,2020-03-28
+Everything I Wanted,Billie Eilish,,8,14,19,10,False,2020-03-28
+Hot Girl Bummer,blackbear,,11,17,27,11,False,2020-03-28
+Memories,Maroon 5,,2,13,26,12,False,2020-03-28
+Myron,Lil Uzi Vert,,13,0,1,13,True,2020-03-28
+Say So,Doja Cat Featuring Nicki Minaj,,14,19,11,14,False,2020-03-28
+Dance Monkey,Tones And I,,4,12,24,15,False,2020-03-28
+Heartless,The Weeknd,,1,21,17,16,False,2020-03-28
+The Bones,Maren Morris,,17,23,26,17,False,2020-03-28
+My Oh My,Camila Cabello Featuring DaBaby,,18,26,15,18,False,2020-03-28
+Bean (Kobe),Lil Uzi Vert Featuring Chief Keef,,19,0,1,19,True,2020-03-28
+Suicidal,YNW Melly & Juice WRLD,,20,0,16,20,False,2020-03-28
+Ballin',Mustard & Roddy Ricch,,11,29,35,21,False,2020-03-28
+"10,000 Hours",Dan + Shay & Justin Bieber,,4,27,24,22,False,2020-03-28
+Godzilla,Eminem Featuring Juice WRLD,,3,32,9,23,False,2020-03-28
+BOP,DaBaby,,11,35,25,24,False,2020-03-28
+Stupid Love,Lady Gaga,,5,30,3,25,False,2020-03-28
+Yessirskiii,Lil Uzi Vert & 21 Savage,,26,0,1,26,True,2020-03-28
+Baby Pluto,Lil Uzi Vert,,6,6,2,27,False,2020-03-28
+Woah,Lil Baby,,15,31,19,28,False,2020-03-28
+Falling,Trevor Daniel,,25,42,18,29,False,2020-03-28
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,,30,47,17,30,False,2020-03-28
+Lose You To Love Me,Selena Gomez,,1,38,22,31,False,2020-03-28
+No Guidance,Chris Brown Featuring Drake,,5,46,41,32,False,2020-03-28
+High Fashion,Roddy Ricch Featuring Mustard,,20,43,12,33,False,2020-03-28
+You Should Be Sad,Halsey,,26,41,10,34,False,2020-03-28
+Homesick,Kane Brown,,35,44,18,35,False,2020-03-28
+I Hope,Gabby Barrett Featuring Charlie Puth,,36,50,12,36,False,2020-03-28
+P2,Lil Uzi Vert,,11,11,2,37,False,2020-03-28
+Blueberry Faygo,Lil Mosey,,38,53,6,38,False,2020-03-28
+Homemade,Jake Owen,,39,60,8,39,False,2020-03-28
+Heart On Ice,Rod Wave,,40,58,19,40,False,2020-03-28
+That Way,Lil Uzi Vert,,20,20,3,41,False,2020-03-28
+Lo Mein,Lil Uzi Vert,,8,8,2,42,False,2020-03-28
+I Love Me,Demi Lovato,,18,18,2,43,False,2020-03-28
+Good As Hell,Lizzo,,3,49,30,44,False,2020-03-28
+Lotus,Lil Uzi Vert,,45,0,1,45,True,2020-03-28
+BEST ON EARTH,Russ & BIA,,46,62,15,46,False,2020-03-28
+Slide,H.E.R. Featuring YG,,47,61,13,47,False,2020-03-28
+Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",,48,73,6,48,False,2020-03-28
+What She Wants Tonight,Luke Bryan,,49,78,13,49,False,2020-03-28
+Dior,Pop Smoke,,30,55,5,50,False,2020-03-28
+Sum 2 Prove,Lil Baby,,16,52,10,51,False,2020-03-28
+Silly Watch,Lil Uzi Vert,,9,9,2,52,False,2020-03-28
+Nobody But You,Blake Shelton Duet With Gwen Stefani,,43,69,10,53,False,2020-03-28
+Wassup,Lil Uzi Vert Featuring Future,,54,0,1,54,True,2020-03-28
+Oprah's Bank Account,"Lil Yachty, Drake & DaBaby",,55,89,2,55,False,2020-03-28
+More Hearts Than Mine,Ingrid Andress,,56,85,12,56,False,2020-03-28
+B.S.,Jhene Aiko Featuring H.E.R.,,24,24,2,57,False,2020-03-28
+Chasin' You,Morgan Wallen,,58,70,8,58,False,2020-03-28
+Slow Dance In A Parking Lot,Jordan Davis,,59,77,11,59,False,2020-03-28
+Strawberry Peels,Lil Uzi Vert Featuring Young Thug & Gunna,,60,0,1,60,True,2020-03-28
+P*$$y Fairy (OTW),Jhene Aiko,,40,40,9,61,False,2020-03-28
+Moon Relate,Lil Uzi Vert,,62,0,1,62,True,2020-03-28
+What A Man Gotta Do,Jonas Brothers,,16,63,9,63,False,2020-03-28
+Tusa,Karol G & Nicki Minaj,,42,75,16,64,False,2020-03-28
+Catch,Brett Young,,65,86,8,65,False,2020-03-28
+I Can Show You,Lil Uzi Vert,,66,0,1,66,True,2020-03-28
+We Back,Jason Aldean,,62,81,16,67,False,2020-03-28
+Trap This Way (This Way),Lil Uzi Vert,,68,0,1,68,True,2020-03-28
+I Wish Grandpas Never Died,Riley Green,,66,82,12,69,False,2020-03-28
+Si Veo A Tu Mama,Bad Bunny,,32,56,3,70,False,2020-03-28
+Death Bed,Powfu Featuring beabadoobee,,71,0,1,71,True,2020-03-28
+Leaders,Lil Uzi Vert Featuring NAV,,72,0,1,72,True,2020-03-28
+Heatin Up,Lil Baby & Gunna,,18,57,3,73,False,2020-03-28
+Sunday Best,Surfaces,,74,99,3,74,False,2020-03-28
+Grace,Lil Baby & 42 Dugg,,48,98,3,75,False,2020-03-28
+No Auto,Lil Uzi Vert Featuring Lil Durk,,76,0,1,76,True,2020-03-28
+The Other Side,SZA X Justin Timberlake,,61,80,3,77,False,2020-03-28
+Yummy,Justin Bieber,,2,67,11,78,False,2020-03-28
+B.I.T.C.H.,Megan Thee Stallion,,31,59,6,79,False,2020-03-28
+La Dificil,Bad Bunny,,33,54,3,80,False,2020-03-28
+I Hope You're Happy Now,Carly Pearce & Lee Brice,,65,91,11,81,False,2020-03-28
+Homecoming,Lil Uzi Vert,,22,22,2,82,False,2020-03-28
+Come This Way,Lil Uzi Vert,,83,0,1,83,True,2020-03-28
+To Die For,Sam Smith,,46,96,5,84,False,2020-03-28
+Emotionally Scarred,Lil Baby,,31,64,3,85,False,2020-03-28
+Does To Me,Luke Combs Featuring Eric Church,,86,0,1,86,True,2020-03-28
+Got The Guap,Lil Uzi Vert Featuring Young Thug,,87,0,1,87,True,2020-03-28
+Supalonely,BENEE Featuring Gus Dapperton,,88,0,1,88,True,2020-03-28
+Money Spread,Lil Uzi Vert Featuring Young Nudy,,89,0,1,89,True,2020-03-28
+Cardigan,Don Toliver,,90,0,1,90,True,2020-03-28
+Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,,91,0,1,91,True,2020-03-28
+Vete,Bad Bunny,,33,66,16,92,False,2020-03-28
+Know Your Worth,Khalid x Disclosure,,57,94,6,93,False,2020-03-28
+Futsal Shuffle 2020,Lil Uzi Vert,,5,48,11,94,False,2020-03-28
+Prices,Lil Uzi Vert,,25,25,2,95,False,2020-03-28
+Go Stupid,Polo G Featuring NLE Choppa & Stunna 4 Vegas,,60,90,5,96,False,2020-03-28
+Before You Go,Lewis Capaldi,,71,0,7,97,False,2020-03-28
+Savage,Megan Thee Stallion,,98,0,1,98,True,2020-03-28
+Come Thru,Summer Walker & Usher,,42,0,12,99,False,2020-03-28
+Make No Sense,YoungBoy Never Broke Again,,57,0,18,100,False,2020-03-28

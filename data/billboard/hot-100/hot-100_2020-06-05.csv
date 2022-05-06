@@ -1,0 +1,101 @@
+title,artist,image,peakPos,lastPos,weeks,rank,isNew,date
+Rain On Me,Lady Gaga & Ariana Grande,,1,0,1,1,True,2020-06-06
+Savage,Megan Thee Stallion,,1,1,11,2,False,2020-06-06
+Rockstar,DaBaby Featuring Roddy Ricch,,3,4,6,3,False,2020-06-06
+Blinding Lights,The Weeknd,,1,3,26,4,False,2020-06-06
+Say So,Doja Cat Featuring Nicki Minaj,,1,2,21,5,False,2020-06-06
+Toosie Slide,Drake,,1,5,8,6,False,2020-06-06
+Don't Start Now,Dua Lipa,,2,8,30,7,False,2020-06-06
+The Box,Roddy Ricch,,1,7,25,8,False,2020-06-06
+Intentions,Justin Bieber Featuring Quavo,,8,9,16,9,False,2020-06-06
+Life Is Good,Future Featuring Drake,,2,6,20,10,False,2020-06-06
+Circles,Post Malone,,1,10,39,11,False,2020-06-06
+Adore You,Harry Styles,,6,12,25,12,False,2020-06-06
+The Bones,Maren Morris,,12,14,36,13,False,2020-06-06
+Roses,SAINt JHN,,14,15,10,14,False,2020-06-06
+Stuck With U,Ariana Grande & Justin Bieber,,1,13,3,15,False,2020-06-06
+Blueberry Faygo,Lil Mosey,,16,17,16,16,False,2020-06-06
+The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",,1,16,5,17,False,2020-06-06
+Chasin' You,Morgan Wallen,,18,18,18,18,False,2020-06-06
+I Hope,Gabby Barrett Featuring Charlie Puth,,16,19,22,19,False,2020-06-06
+Does To Me,Luke Combs Featuring Eric Church,,20,22,11,20,False,2020-06-06
+Falling,Trevor Daniel,,21,21,28,21,False,2020-06-06
+Gooba,6ix9ine,,3,11,3,22,False,2020-06-06
+High Fashion,Roddy Ricch Featuring Mustard,,20,24,22,23,False,2020-06-06
+Sunday Best,Surfaces,,24,26,13,24,False,2020-06-06
+Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",,25,28,16,25,False,2020-06-06
+Death Bed,Powfu Featuring beabadoobee,,26,29,11,26,False,2020-06-06
+Party Girl,StaySolidRocky,,27,38,5,27,False,2020-06-06
+Nobody But You,Blake Shelton Duet With Gwen Stefani,,18,23,20,28,False,2020-06-06
+I Hope You're Happy Now,Carly Pearce & Lee Brice,,29,35,21,29,False,2020-06-06
+Before You Go,Lewis Capaldi,,30,36,17,30,False,2020-06-06
+My Oh My,Camila Cabello Featuring DaBaby,,12,25,25,31,False,2020-06-06
+In Your Eyes,The Weeknd,,16,58,10,32,False,2020-06-06
+After A Few,Travis Denning,,33,37,9,33,False,2020-06-06
+Break My Heart,Dua Lipa,,21,39,9,34,False,2020-06-06
+Everything I Wanted,Billie Eilish,,8,27,29,35,False,2020-06-06
+Memories,Maroon 5,,2,31,36,36,False,2020-06-06
+Hard To Forget,Sam Hunt,,37,44,9,37,False,2020-06-06
+Dollaz On My Head,Gunna Featuring Young Thug,,38,0,1,38,True,2020-06-06
+Be Kind,Marshmello & Halsey,,29,43,4,39,False,2020-06-06
+Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,,36,42,11,40,False,2020-06-06
+Cooler Than A Bitch,Gunna Featuring Roddy Ricch,,41,0,1,41,True,2020-06-06
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,,26,41,27,42,False,2020-06-06
+Hot Girl Bummer,blackbear,,11,46,37,43,False,2020-06-06
+Supalonely,BENEE Featuring Gus Dapperton,,39,45,11,44,False,2020-06-06
+Watermelon Sugar,Harry Styles,,45,64,10,45,False,2020-06-06
+Walk Em Down,NLE Choppa Featuring Roddy Ricch,,46,52,10,46,False,2020-06-06
+One Margarita,Luke Bryan,,47,48,4,47,False,2020-06-06
+Dance Monkey,Tones And I,,4,47,34,48,False,2020-06-06
+Flex,Polo G Featuring Juice WRLD,,30,30,2,49,False,2020-06-06
+Sum 2 Prove,Lil Baby,,16,51,20,50,False,2020-06-06
+Bluebird,Miranda Lambert,,51,55,8,51,False,2020-06-06
+Go Crazy,Chris Brown & Young Thug,,52,94,3,52,False,2020-06-06
+Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,,50,50,18,53,False,2020-06-06
+Emotionally Scarred,Lil Baby,,31,60,13,54,False,2020-06-06
+Top Floor,Gunna Featuring Travis Scott,,55,0,1,55,True,2020-06-06
+Dior,Pop Smoke,,30,59,15,56,False,2020-06-06
+Wunna,Gunna,,57,0,1,57,True,2020-06-06
+Chicago Freestyle,Drake Featuring Giveon,,14,56,4,58,False,2020-06-06
+Blindfold,Gunna Featuring Lil Baby,,59,0,1,59,True,2020-06-06
+We Paid,Lil Baby & 42 Dugg,,55,70,4,60,False,2020-06-06
+Level Of Concern,twenty one pilots,,23,66,7,61,False,2020-06-06
+Need It,Migos Featuring YoungBoy Never Broke Again,,62,0,1,62,True,2020-06-06
+After Party,Don Toliver,,63,65,6,63,False,2020-06-06
+I Love My Country,Florida Georgia Line,,64,89,6,64,False,2020-06-06
+SkyBox,Gunna,,65,0,2,65,False,2020-06-06
+X,Jonas Brothers Featuring Karol G,,33,33,2,66,False,2020-06-06
+Argentina,Gunna,,67,0,1,67,True,2020-06-06
+Yo Perreo Sola,Bad Bunny,,53,72,11,68,False,2020-06-06
+Here And Now,Kenny Chesney,,59,77,8,69,False,2020-06-06
+Met Gala,Gunna,,70,0,1,70,True,2020-06-06
+Out West,JACKBOYS Featuring Young Thug,,38,80,20,71,False,2020-06-06
+Righteous,Juice WRLD,,11,63,5,72,False,2020-06-06
+If The World Was Ending,JP Saxe Featuring Julia Michaels,,59,73,9,73,False,2020-06-06
+Believe It,PARTYNEXTDOOR & Rihanna,,23,76,9,74,False,2020-06-06
+Ride It.,Regard,,62,74,7,75,False,2020-06-06
+Daechwita,Agust D,,76,0,1,76,True,2020-06-06
+P*$$y Fairy (OTW),Jhene Aiko,,40,78,19,77,False,2020-06-06
+Nasty Girl / On Camera,Gunna,,78,0,1,78,True,2020-06-06
+Daisies,Katy Perry,,40,40,2,79,False,2020-06-06
+God Whispered Your Name,Keith Urban,,80,85,6,80,False,2020-06-06
+In Between,Scotty McCreery,,72,83,7,81,False,2020-06-06
+Die From A Broken Heart,Maddie & Tae,,80,87,7,82,False,2020-06-06
+Solitaires,Future Featuring Travis Scott,,32,32,2,83,False,2020-06-06
+MOTW,Gunna,,84,0,1,84,True,2020-06-06
+Trillionaire,Future Featuring YoungBoy Never Broke Again,,34,34,2,85,False,2020-06-06
+Gimmick,Gunna,,86,0,1,86,True,2020-06-06
+Drinking Alone,Carrie Underwood,,87,99,4,87,False,2020-06-06
+Godzilla,Eminem Featuring Juice WRLD,,3,90,19,88,False,2020-06-06
+Be A Light,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",,71,100,8,89,False,2020-06-06
+Turks,"NAV, Gunna & Travis Scott",,17,91,9,90,False,2020-06-06
+Go Stupid,Polo G Featuring NLE Choppa & Stunna 4 Vegas,,60,67,9,91,False,2020-06-06
+Don't Rush,Young T & Bugsey Featuring Headie One,,84,0,3,92,False,2020-06-06
+Be Something,Polo G Featuring Lil Baby,,57,57,2,93,False,2020-06-06
+Martin & Gina,Polo G,,61,61,2,94,False,2020-06-06
+21,Polo G,,62,62,2,95,False,2020-06-06
+July,Noah Cyrus & Leon Bridges,,85,98,12,96,False,2020-06-06
+Grace,Lil Baby & 42 Dugg,,48,0,10,97,False,2020-06-06
+Feigning,Gunna,,98,0,1,98,True,2020-06-06
+All In,Lil Baby,,45,0,4,99,False,2020-06-06
+ily,Surf Mesa Featuring Emilee,,100,0,1,100,True,2020-06-06

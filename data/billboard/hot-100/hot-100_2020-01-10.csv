@@ -1,0 +1,101 @@
+title,artist,image,peakPos,lastPos,weeks,rank,isNew,date
+Circles,Post Malone,,1,5,18,1,False,2020-01-11
+Memories,Maroon 5,,2,9,15,2,False,2020-01-11
+The Box,Roddy Ricch,,3,13,4,3,False,2020-01-11
+Someone You Loved,Lewis Capaldi,,1,8,34,4,False,2020-01-11
+Roxanne,Arizona Zervas,,4,6,9,5,False,2020-01-11
+Good As Hell,Lizzo,,3,10,19,6,False,2020-01-11
+Dance Monkey,Tones And I,,7,14,13,7,False,2020-01-11
+HIGHEST IN THE ROOM,Travis Scott,,1,38,13,8,False,2020-01-11
+"10,000 Hours",Dan + Shay & Justin Bieber,,4,17,13,9,False,2020-01-11
+Lose You To Love Me,Selena Gomez,,1,18,11,10,False,2020-01-11
+Senorita,Shawn Mendes & Camila Cabello,,1,26,28,11,False,2020-01-11
+Ballin',Mustard & Roddy Ricch,,12,19,24,12,False,2020-01-11
+BOP,DaBaby,,11,20,14,13,False,2020-01-11
+Bad Guy,Billie Eilish,,1,23,40,14,False,2020-01-11
+Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,,1,34,44,15,False,2020-01-11
+No Guidance,Chris Brown Featuring Drake,,5,25,30,16,False,2020-01-11
+Panini,Lil Nas X,,5,30,28,17,False,2020-01-11
+Truth Hurts,Lizzo,,1,35,35,18,False,2020-01-11
+Trampoline,SHAED,,13,46,31,19,False,2020-01-11
+Heartless,The Weeknd,,1,39,6,20,False,2020-01-11
+Don't Start Now,Dua Lipa,,21,52,9,21,False,2020-01-11
+Bandit,Juice WRLD & YoungBoy Never Broke Again,,10,27,13,22,False,2020-01-11
+Everything I Wanted,Billie Eilish,,8,41,8,23,False,2020-01-11
+Hot,Young Thug Featuring Gunna,,11,33,20,24,False,2020-01-11
+Only Human,Jonas Brothers,,18,0,28,25,False,2020-01-11
+One Man Band,Old Dominion,,20,54,19,26,False,2020-01-11
+Woah,Lil Baby,,16,47,8,27,False,2020-01-11
+I Don't Care,Ed Sheeran & Justin Bieber,,2,0,31,28,False,2020-01-11
+Sucker,Jonas Brothers,,1,0,39,29,False,2020-01-11
+Even Though I'm Leaving,Luke Combs,,11,59,18,30,False,2020-01-11
+Falling,Trevor Daniel,,31,51,7,31,False,2020-01-11
+Hot Girl Bummer,blackbear,,32,55,16,32,False,2020-01-11
+Ran$om,Lil Tecca,,4,50,31,33,False,2020-01-11
+Lover,Taylor Swift,,10,57,20,34,False,2020-01-11
+Adore You,Harry Styles,,24,53,4,35,False,2020-01-11
+The Bones,Maren Morris,,36,64,15,36,False,2020-01-11
+Graveyard,Halsey,,34,61,16,37,False,2020-01-11
+Out West,JACKBOYS Featuring Young Thug,,38,0,1,38,True,2020-01-11
+On Chill,Wale Featuring Jeremih,,22,58,21,39,False,2020-01-11
+Talk,Khalid,,3,0,44,40,False,2020-01-11
+Suicidal,YNW Melly & Juice WRLD,,41,56,6,41,False,2020-01-11
+Beautiful People,Ed Sheeran Featuring Khalid,,13,0,25,42,False,2020-01-11
+Suge,DaBaby,,7,0,36,43,False,2020-01-11
+Futsal Shuffle 2020,Lil Uzi Vert,,5,48,3,44,False,2020-01-11
+Juicy,Doja Cat & Tyga,,45,63,10,45,False,2020-01-11
+No Idea,Don Toliver,,43,60,5,46,False,2020-01-11
+Baby,Lil Baby & DaBaby,,21,0,21,47,False,2020-01-11
+GANG GANG,JACKBOYS & Sheck Wes,,48,0,1,48,True,2020-01-11
+What If I Never Get Over You,Lady Antebellum,,47,71,19,49,False,2020-01-11
+My Oh My,Camila Cabello Featuring DaBaby,,50,62,4,50,False,2020-01-11
+Ridin' Roads,Dustin Lynch,,51,73,9,51,False,2020-01-11
+HAD ENOUGH,Don Toliver Featuring Quavo & Offset,,52,0,1,52,True,2020-01-11
+Heat,Chris Brown Featuring Gunna,,36,66,18,53,False,2020-01-11
+Playing Games,Summer Walker,,16,65,18,54,False,2020-01-11
+Into The Unknown,Idina Menzel & AURORA,,46,67,6,55,False,2020-01-11
+WHAT TO DO?,JACKBOYS Featuring Don Toliver,,56,0,1,56,True,2020-01-11
+VIBEZ,DaBaby,,21,68,14,57,False,2020-01-11
+Heartache Medication,Jon Pardi,,58,75,14,58,False,2020-01-11
+Blinding Lights,The Weeknd,,11,72,5,59,False,2020-01-11
+Kinfolks,Sam Hunt,,60,80,12,60,False,2020-01-11
+Remember You Young,Thomas Rhett,,53,82,16,61,False,2020-01-11
+Heart On Ice,Rod Wave,,54,70,8,62,False,2020-01-11
+Take What You Want,Post Malone Featuring Ozzy Osbourne & Travis Scott,,8,77,17,63,False,2020-01-11
+Homesick,Kane Brown,,64,88,7,64,False,2020-01-11
+Camelot,NLE Choppa,,37,74,16,65,False,2020-01-11
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,,66,86,6,66,False,2020-01-11
+Leave Em Alone,"Layton Greene, Lil Baby, City Girls & PnB Rock",,60,78,13,67,False,2020-01-11
+Start Wit Me,Roddy Ricch & Gunna,,58,76,7,68,False,2020-01-11
+GATTI,"JACKBOYS, Pop Smoke & Travis Scott",,69,0,1,69,True,2020-01-11
+High Fashion,Roddy Ricch Featuring Mustard,,70,0,1,70,True,2020-01-11
+TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,,28,0,5,71,False,2020-01-11
+South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,,53,100,4,72,False,2020-01-11
+Slide,H.E.R. Featuring YG,,73,85,2,73,False,2020-01-11
+I Hope,Gabby Barrett Featuring Charlie Puth,,74,0,1,74,True,2020-01-11
+Nice To Meet Ya,Niall Horan,,63,93,12,75,False,2020-01-11
+Tusa,Karol G & Nicki Minaj,,76,98,5,76,False,2020-01-11
+We Back,Jason Aldean,,77,0,5,77,False,2020-01-11
+223's,YNW Melly & 9lokknine,,34,84,17,78,False,2020-01-11
+Easy,DaniLeigh Featuring Chris Brown,,79,90,9,79,False,2020-01-11
+Slow Dancing In The Dark,Joji,,69,89,13,80,False,2020-01-11
+BEST ON EARTH,Russ & BIA,,81,97,4,81,False,2020-01-11
+Watermelon Sugar,Harry Styles,,54,87,6,82,False,2020-01-11
+Vete,Bad Bunny,,33,91,6,83,False,2020-01-11
+Make Me Want To,Jimmie Allen,,84,0,1,84,True,2020-01-11
+Enemies,Post Malone Featuring DaBaby,,16,99,17,85,False,2020-01-11
+What She Wants Tonight,Luke Bryan,,86,0,2,86,False,2020-01-11
+homecoming queen?,Kelsea Ballerini,,82,0,4,87,False,2020-01-11
+More Hearts Than Mine,Ingrid Andress,,88,0,1,88,True,2020-01-11
+Tip Toe,Roddy Ricch Featuring A Boogie Wit da Hoodie,,73,95,5,89,False,2020-01-11
+I Wish Grandpas Never Died,Riley Green,,90,0,1,90,True,2020-01-11
+Death,Trippie Redd Featuring DaBaby,,59,83,7,91,False,2020-01-11
+Yellow Hearts,Ant Saunders,,81,94,8,92,False,2020-01-11
+Jerry Sprunger,Tory Lanez & T-Pain,,44,0,5,93,False,2020-01-11
+Let Me Know (I Wonder Why Freestyle),Juice WRLD,,78,81,3,94,False,2020-01-11
+Loco Contigo,"DJ Snake, J. Balvin & Tyga",,95,0,2,95,False,2020-01-11
+Candy,Doja Cat,,86,96,6,96,False,2020-01-11
+Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,,78,0,4,97,False,2020-01-11
+China,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",,43,0,18,98,False,2020-01-11
+Slow Dance In A Parking Lot,Jordan Davis,,99,0,1,99,True,2020-01-11
+July,Noah Cyrus & Leon Bridges,,100,0,1,100,True,2020-01-11
